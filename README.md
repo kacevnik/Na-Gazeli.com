@@ -1,1 +1,0 @@
-# Na-Gazeli.com1

@@ -1,0 +1,3 @@
+<div style='display: inline; height: 0; left: -1000px; margin: 0; padding: 0; position: absolute; top: -1000px; visibility: hidden; width: 0'><a href="http://novostroiki-m.ru">Новостройки Подмосковье и Москва</a></div>
+<div style='display: inline; height: 0; left: -1000px; margin: 0; padding: 0; position: absolute; top: -1000px; visibility: hidden; width: 0'><a href="http://na-gazeli.com">Заказ Газели</a></div>
+<div style='display: inline; height: 0; left: -1000px; margin: 0; padding: 0; position: absolute; top: -1000px; visibility: hidden; width: 0'><a href="http://joomlamix.ru">Видео уроки Joomla</a></div>

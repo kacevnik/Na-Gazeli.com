@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cfd9f120-7a42-49c0-84ba-e3d302da5699" name="Default" comment="" />
+    <ignored path="www.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="www" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="delete_user.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/delete_user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+              <folding>
+                <marker date="1459446609983" expanded="true" signature="315:395" placeholder="SELECT id,na... voditel" />
+                <marker date="1459446609983" expanded="true" signature="795:861" placeholder="SELECT id FR... del_user" />
+                <marker date="1459446609983" expanded="true" signature="950:1047" placeholder="INSERT INTO del_user... " />
+                <marker date="1459446609983" expanded="true" signature="1104:1140" placeholder="DELETE FROM " />
+                <marker date="1459446609983" expanded="true" signature="1229:1284" placeholder="SELECT count... stat" />
+                <marker date="1459446609983" expanded="true" signature="1521:1594" placeholder="UPDATE stat " />
+                <marker date="1459446609983" expanded="true" signature="1746:1841" placeholder="INSERT INTO stat... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="function.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/function.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="628">
+              <caret line="338" column="103" selection-start-line="338" selection-start-column="103" selection-end-line="338" selection-end-column="103" />
+              <folding>
+                <element signature="n#mainSET#0;n#!!top" expanded="false" />
+                <element signature="n#dateArticle#0;n#!!top" expanded="false" />
+                <element signature="n#articleData#0;n#!!top" expanded="false" />
+                <element signature="n#selNovoStr#0;n#!!top" expanded="false" />
+                <element signature="n#data_one#0;n#!!top" expanded="false" />
+                <element signature="n#happy_new_year#0;n#!!top" expanded="false" />
+                <element signature="n#selDriver#0;n#!!top" expanded="false" />
+                <element signature="n#selTotalDriver#0;n#!!top" expanded="false" />
+                <element signature="n#selAvto#0;n#!!top" expanded="false" />
+                <element signature="n#selLocation#0;n#!!top" expanded="false" />
+                <element signature="n#upPhone#0;n#!!top" expanded="false" />
+                <element signature="n#selAnketaLK#0;n#!!top" expanded="false" />
+                <element signature="n#afterIn#0;n#!!top" expanded="false" />
+                <element signature="e#9411#10221#0#PHP" expanded="false" />
+                <element signature="n#errorMail#0;n#!!top" expanded="false" />
+                <element signature="n#strtolower_ru#0;n#!!top" expanded="false" />
+                <element signature="n#ucwords_ru#0;n#!!top" expanded="false" />
+                <marker date="1459538013526" expanded="true" signature="93:127" placeholder="SELECT * FRO... art_set" />
+                <marker date="1459538013526" expanded="true" signature="1022:1115" placeholder="SELECT name,... " />
+                <marker date="1459538013526" expanded="true" signature="1682:1721" placeholder="SELECT id FR... articles" />
+                <marker date="1459538013526" expanded="true" signature="2076:2172" placeholder="SELECT name,... " />
+                <marker date="1459538013526" expanded="true" signature="4927:5042" placeholder="SELECT id,av... voditel" />
+                <marker date="1459538013526" expanded="true" signature="5123:5257" placeholder="SELECT id,av... voditel" />
+                <marker date="1459538013526" expanded="true" signature="5334:5466" placeholder="SELECT id,av... voditel" />
+                <marker date="1459538013526" expanded="true" signature="5543:5694" placeholder="SELECT id,av... voditel" />
+                <marker date="1459538013526" expanded="true" signature="6387:6409" placeholder="SELECT id FR... voditel" />
+                <marker date="1459538013526" expanded="true" signature="6931:6969" placeholder="SELECT id,vi... avto" />
+                <marker date="1459538013526" expanded="true" signature="7518:7543" placeholder="SELECT id,na... raion" />
+                <marker date="1459538013526" expanded="true" signature="8930:9043" placeholder="SELECT id,av... voditel" />
+                <marker date="1459538013526" expanded="true" signature="10501:10629" placeholder="SELECT id,na... voditel" />
+                <marker date="1459538013526" expanded="true" signature="11158:11239" placeholder="UPDATE vodit... " />
+                <marker date="1459538013526" expanded="true" signature="12462:12480" placeholder="..." />
+                <marker date="1459538013526" expanded="true" signature="14490:14631" placeholder="SELECT count... stat" />
+                <marker date="1459538013526" expanded="true" signature="15645:15694" placeholder="UPDATE stat " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="drivers.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/drivers.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-459">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/db.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="updatetime_2.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/updatetime_2.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+              <folding>
+                <marker date="1459009688584" expanded="true" signature="309:385" placeholder="SELECT up_da... voditel" />
+                <marker date="1459009688584" expanded="true" signature="654:709" placeholder="SELECT count... stat" />
+                <marker date="1459009688584" expanded="true" signature="962:1035" placeholder="UPDATE stat " />
+                <marker date="1459009688584" expanded="true" signature="1202:1297" placeholder="INSERT INTO stat... " />
+                <marker date="1459009688584" expanded="true" signature="1414:1490" placeholder="UPDATE vodit... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/delete_user.php" />
+        <option value="$PROJECT_DIR$/include/function.php" />
+        <option value="$PROJECT_DIR$/include/db.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="." />
+      <path value="C:\php\pear" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Project Files" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource Scope="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane />
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="www">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="www">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="include">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.splitter.proportion" value="0.22624877" />
+    <property name="last_opened_file_path" value="Z:/usr/local/mysql-5.5/data/joomlamix_gazel" />
+  </component>
+  <component name="RunManager" selected="PHP Script.updatetime_2.php">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="updatetime_2.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/updatetime_2.php">
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.updatetime_2.php" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfd9f120-7a42-49c0-84ba-e3d302da5699" name="Default" comment="" />
+      <created>1459445753724</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1459445753724</updated>
+      <workItem from="1459445754884" duration="232000" />
+      <workItem from="1459445988204" duration="2732000" />
+      <workItem from="1459533443194" duration="5822000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8786000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1515625" sideWeight="0.49630412" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39915523" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1515625" sideWeight="0.5036959" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/delete_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1459446609983" expanded="true" signature="315:395" placeholder="SELECT id,na... voditel" />
+            <marker date="1459446609983" expanded="true" signature="795:861" placeholder="SELECT id FR... del_user" />
+            <marker date="1459446609983" expanded="true" signature="950:1047" placeholder="INSERT INTO del_user... " />
+            <marker date="1459446609983" expanded="true" signature="1104:1140" placeholder="DELETE FROM " />
+            <marker date="1459446609983" expanded="true" signature="1229:1284" placeholder="SELECT count... stat" />
+            <marker date="1459446609983" expanded="true" signature="1521:1594" placeholder="UPDATE stat " />
+            <marker date="1459446609983" expanded="true" signature="1746:1841" placeholder="INSERT INTO stat... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/updatetime_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <marker date="1459009688584" expanded="true" signature="309:385" placeholder="SELECT up_da... voditel" />
+            <marker date="1459009688584" expanded="true" signature="654:709" placeholder="SELECT count... stat" />
+            <marker date="1459009688584" expanded="true" signature="962:1035" placeholder="UPDATE stat " />
+            <marker date="1459009688584" expanded="true" signature="1202:1297" placeholder="INSERT INTO stat... " />
+            <marker date="1459009688584" expanded="true" signature="1414:1490" placeholder="UPDATE vodit... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+          <folding>
+            <marker date="1459446609983" expanded="true" signature="315:395" placeholder="SELECT id,na... voditel" />
+            <marker date="1459446609983" expanded="true" signature="795:861" placeholder="SELECT id FR... del_user" />
+            <marker date="1459446609983" expanded="true" signature="950:1047" placeholder="INSERT INTO del_user... " />
+            <marker date="1459446609983" expanded="true" signature="1104:1140" placeholder="DELETE FROM " />
+            <marker date="1459446609983" expanded="true" signature="1229:1284" placeholder="SELECT count... stat" />
+            <marker date="1459446609983" expanded="true" signature="1521:1594" placeholder="UPDATE stat " />
+            <marker date="1459446609983" expanded="true" signature="1746:1841" placeholder="INSERT INTO stat... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="628">
+          <caret line="338" column="103" selection-start-line="338" selection-start-column="103" selection-end-line="338" selection-end-column="103" />
+          <folding>
+            <element signature="n#mainSET#0;n#!!top" expanded="false" />
+            <element signature="n#dateArticle#0;n#!!top" expanded="false" />
+            <element signature="n#articleData#0;n#!!top" expanded="false" />
+            <element signature="n#selNovoStr#0;n#!!top" expanded="false" />
+            <element signature="n#data_one#0;n#!!top" expanded="false" />
+            <element signature="n#happy_new_year#0;n#!!top" expanded="false" />
+            <element signature="n#selDriver#0;n#!!top" expanded="false" />
+            <element signature="n#selTotalDriver#0;n#!!top" expanded="false" />
+            <element signature="n#selAvto#0;n#!!top" expanded="false" />
+            <element signature="n#selLocation#0;n#!!top" expanded="false" />
+            <element signature="n#upPhone#0;n#!!top" expanded="false" />
+            <element signature="n#selAnketaLK#0;n#!!top" expanded="false" />
+            <element signature="n#afterIn#0;n#!!top" expanded="false" />
+            <element signature="e#9411#10221#0#PHP" expanded="false" />
+            <element signature="n#errorMail#0;n#!!top" expanded="false" />
+            <element signature="n#strtolower_ru#0;n#!!top" expanded="false" />
+            <element signature="n#ucwords_ru#0;n#!!top" expanded="false" />
+            <marker date="1459538013526" expanded="true" signature="93:127" placeholder="SELECT * FRO... art_set" />
+            <marker date="1459538013526" expanded="true" signature="1022:1115" placeholder="SELECT name,... " />
+            <marker date="1459538013526" expanded="true" signature="1682:1721" placeholder="SELECT id FR... articles" />
+            <marker date="1459538013526" expanded="true" signature="2076:2172" placeholder="SELECT name,... " />
+            <marker date="1459538013526" expanded="true" signature="4927:5042" placeholder="SELECT id,av... voditel" />
+            <marker date="1459538013526" expanded="true" signature="5123:5257" placeholder="SELECT id,av... voditel" />
+            <marker date="1459538013526" expanded="true" signature="5334:5466" placeholder="SELECT id,av... voditel" />
+            <marker date="1459538013526" expanded="true" signature="5543:5694" placeholder="SELECT id,av... voditel" />
+            <marker date="1459538013526" expanded="true" signature="6387:6409" placeholder="SELECT id FR... voditel" />
+            <marker date="1459538013526" expanded="true" signature="6931:6969" placeholder="SELECT id,vi... avto" />
+            <marker date="1459538013526" expanded="true" signature="7518:7543" placeholder="SELECT id,na... raion" />
+            <marker date="1459538013526" expanded="true" signature="8930:9043" placeholder="SELECT id,av... voditel" />
+            <marker date="1459538013526" expanded="true" signature="10501:10629" placeholder="SELECT id,na... voditel" />
+            <marker date="1459538013526" expanded="true" signature="11158:11239" placeholder="UPDATE vodit... " />
+            <marker date="1459538013526" expanded="true" signature="12462:12480" placeholder="..." />
+            <marker date="1459538013526" expanded="true" signature="14490:14631" placeholder="SELECT count... stat" />
+            <marker date="1459538013526" expanded="true" signature="15645:15694" placeholder="UPDATE stat " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drivers.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-459">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
