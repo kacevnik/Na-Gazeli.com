@@ -1,0 +1,41 @@
+
+//Добавление глобальных данных имени и почти пользавателя (заполняется один раз)
+$ git config --global user.name "Dima Kovalev"
+$ git config --global user.email "kacevnik@gmail.com"
+
+//Проверка данных конфигурации
+$ git config --list
+
+//Иницилизация репозетория
+$ git init
+
+//Проверка статуса репозитория
+$ git status
+
+//Добавление изменненых файлов (с точкой - добавить всё)
+$ git add
+
+//коммит (создания отпечатка)
+$ git commit -m "комментарий коммита"
+
+//Вывод списка коммитов
+$ git log
+
+//Создание новой ветки
+$ git branch newvetka
+
+//Показать список всех веток
+$ git branch
+
+//Переключение на другую ветку
+$ git checkout newvetka
+$ git checkout -b branchName (создаст и перейдет в ветку)
+
+//Удалит ветку с указанным именем
+$ git branch -d branchName
+
+//Удалит ветку с указанным именем
+$ git merge branchName
+
+//Создание ветки на удаленном репозитории
+$ git push origin namtBranch
